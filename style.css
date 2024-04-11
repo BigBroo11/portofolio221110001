@@ -77,7 +77,7 @@ nav > ul > li > a:hover {
     display: flex;
     height: 750px;
     margin-top: 0px;
-    background-image: url('img/Layar.webp');
+    background-image: url('./assets/img/Layar.webp');
     background-size: cover;
     background-repeat: no-repeat;
     font-family: Montserrat;
